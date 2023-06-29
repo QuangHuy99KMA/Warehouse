@@ -220,7 +220,7 @@ document.addEventListener('DOMContentLoaded', () => {
     speed: 400,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 2000,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
@@ -238,7 +238,7 @@ document.addEventListener('DOMContentLoaded', () => {
         spaceBetween: 80
       },
       992: {
-        slidesPerView: 6,
+        slidesPerView: 5,
         spaceBetween: 120
       }
     }
